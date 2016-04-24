@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
-using LevelManager;
 
 public class NumberWizard : MonoBehaviour {
 	// Use this for initialization
